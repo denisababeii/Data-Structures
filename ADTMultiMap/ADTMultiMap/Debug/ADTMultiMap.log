@@ -1,0 +1,10 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+C:\Users\HP\Documents\Anul1\DSA\ADTMultiMap\ADTMultiMap\ExtendedTest.cpp(243,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\HP\Documents\Anul1\DSA\ADTMultiMap\ADTMultiMap\ExtendedTest.cpp(250,20): warning C4101: 'ex': unreferenced local variable
+  MultiMap.cpp
+  MultiMapIterator.cpp
+  ShortTest.cpp
+  ValueIterator.cpp
+  Generating Code...
+  ADTMultiMap.vcxproj -> C:\Users\HP\Documents\Anul1\DSA\ADTMultiMap\Debug\ADTMultiMap.exe

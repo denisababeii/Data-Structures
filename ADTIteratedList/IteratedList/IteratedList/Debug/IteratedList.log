@@ -1,0 +1,7 @@
+﻿  ExtendedTest.cpp
+C:\Users\HP\Downloads\IteratedList\ExtendedTest.cpp(253,20): warning C4101: 'ex': unreferenced local variable
+  IteratedList.cpp
+  ListIterator.cpp
+  ShortTest.cpp
+  Generating Code...
+  IteratedList.vcxproj -> C:\Users\HP\Documents\Anul1\DSA\ADTIteratedList\IteratedList\Debug\IteratedList.exe
